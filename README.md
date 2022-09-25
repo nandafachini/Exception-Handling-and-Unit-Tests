@@ -18,7 +18,7 @@ See below what you need to start programming in Python today.
 - [Python](https://www.python.org/downloads/) - Programming language
 - [IntelliJ](https://www.jetbrains.com/pt-br/idea/download/) - Virtual environment
 
-And of course Exception Handling and Unit Tests Exercises itself is open source with a [public repository](https://github.com/nandafachini/qred_challenge)
+And of course Exception Handling and Unit Tests Exercises itself is open source with a [public repository](https://github.com/nandafachini/Exception-Handling-and-Unit-Tests.git)
  on GitHub.
 
 ## Installation
